@@ -1,0 +1,1 @@
+This is an Android based Media Center that will play movies, music, tv shows and music videos.
